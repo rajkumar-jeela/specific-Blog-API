@@ -23,11 +23,6 @@
   }
 }
 
-.spinner-center {
-  display: flex;
-  justify-content: center;
-}
-
 .blog-details-title {
   font-size: 14px;
   text-align: center;

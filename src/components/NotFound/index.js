@@ -7,6 +7,7 @@ const NotFound = () => (
       alt="not-found"
       className="not-found-img"
     />
+    <p>Not Found</p>
   </div>
 )
 
